@@ -8,5 +8,5 @@ export const Container = styled.div`
   display: flex;
   flex-direction: column;
   overflow-y: scroll;
-  gap: 12px;
+  gap: 0.75rem;
 `;
